@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "XPMDEVTeam-Angular"
+    }
+  },
+  "defaultProject": "XPMDEVTeam-Angular",
+  "cli": {
+    "analytics": false
+  }
 }
