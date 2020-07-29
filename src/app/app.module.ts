@@ -1,6 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+// Bootstrap
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+
+// Componentess
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavbarModule } from './@components/navbar/navbar.module';
