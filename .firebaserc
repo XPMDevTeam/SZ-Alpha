@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "savezone-test": {
+      "hosting": {
+        "XPMDEVTeam-Angular": [
+          "savezone-test"
+        ]
+      }
+    }
+  }
+}
