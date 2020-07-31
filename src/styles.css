@@ -6,3 +6,5 @@
 @import 'assets/css/styles.css';
 
 /*@import 'assets/img/favicon.ico';*/
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
